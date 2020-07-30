@@ -53,7 +53,7 @@ android {
             storePassword 'android'
         }
         release {
-            keyAlias 'key'
+            keyAlias 'key0'
             keyPassword '123456'
             storeFile file("keystores/key-release")
             storePassword '123456'
