@@ -25,7 +25,7 @@ DEPENDENCIES:
   - Flutter (from `Flutter`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - AppCenter
 
 EXTERNAL SOURCES:
@@ -47,4 +47,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 7d0e81fbd2c2f8c60db3c9bd7b678a22f076dde4
 
-COCOAPODS: 1.7.5
+COCOAPODS: 1.9.3

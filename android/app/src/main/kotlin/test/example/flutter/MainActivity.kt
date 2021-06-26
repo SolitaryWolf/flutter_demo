@@ -1,4 +1,4 @@
-package com.example.flutter_helloworld
+package test.example.flutter
 
 import android.os.Build
 import android.os.Bundle
