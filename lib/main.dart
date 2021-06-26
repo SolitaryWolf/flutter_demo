@@ -16,6 +16,7 @@ void main() async {
       appSecret, [AppCenterAnalytics.id, AppCenterCrashes.id]);
 
   runApp(MyApp());
+  print('update1');
 }
 
 class MyApp extends StatelessWidget {
